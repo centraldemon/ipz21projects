@@ -1,0 +1,5 @@
+﻿  prog.cpp
+d:\ipz21projects\lab2\lab2\prog.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  SimpleDecimal.cpp
+  Создание кода...
+  lab2.vcxproj -> D:\ipz21projects\lab2\Debug\lab2.exe
