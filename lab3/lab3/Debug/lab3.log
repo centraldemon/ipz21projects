@@ -1,0 +1,5 @@
+﻿  prog.cpp
+d:\ipz21projects\lab3\lab3\prog.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\ipz21projects\lab3\lab3\prog.cpp(21): warning C4305: аргумент: усечение из "double" в "float"
+d:\ipz21projects\lab3\lab3\prog.cpp(28): warning C4305: аргумент: усечение из "double" в "float"
+  lab3.vcxproj -> D:\ipz21projects\lab3\Debug\lab3.exe
